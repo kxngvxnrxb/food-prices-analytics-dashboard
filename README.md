@@ -27,7 +27,7 @@ The dashboard provides:
 
 ## Screenshots
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.jpg)
 
 ## Dataset
 
